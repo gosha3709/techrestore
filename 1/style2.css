@@ -1,0 +1,330 @@
+.cena {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.cena .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1818px;
+  position: relative;
+}
+
+.cena .gwna {
+  position: absolute;
+  width: 1440px;
+  height: 90px;
+  top: 0;
+  left: 0;
+  background-color: #61abeb;
+}
+
+.cena .text-wrapper {
+  position: absolute;
+  width: 246px;
+  top: 8px;
+  left: 75px;
+  font-family: "Inknut Antiqua-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cena .knopka {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 30px;
+  padding: 10px 30px;
+  position: absolute;
+  top: 20px;
+  left: 894px;
+}
+
+.cena .text-wrapper-2 {
+  width: 100px;
+  height: 25px;
+  position: relative;
+  margin-top: -1.00px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cena .text-wrapper-3 {
+  width: fit-content;
+  position: relative;
+  margin-top: -1.00px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cena .frame {
+  position: absolute;
+  width: 1440px;
+  height: 934px;
+  top: 90px;
+  left: 0;
+  background-color: #eeeeee;
+}
+
+.cena .text-wrapper-4 {
+  position: absolute;
+  top: 33px;
+  left: 58px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cena .frame-2 {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+  align-items: flex-start;
+  gap: 35px;
+  position: absolute;
+  top: 127px;
+  left: 58px;
+}
+
+.cena .p {
+  position: relative;
+  align-self: stretch;
+  height: 30px;
+  margin-top: -1.00px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cena .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cena .miejsce {
+  position: absolute;
+  width: 1440px;
+  height: 500px;
+  top: 1024px;
+  left: 0;
+  background-color: #61abeb;
+}
+
+.cena .text-wrapper-6 {
+  position: absolute;
+  top: 39px;
+  left: 55px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cena .text-wrapper-7 {
+  position: absolute;
+  width: 347px;
+  top: 150px;
+  left: 1008px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cena .adres {
+  display: flex;
+  flex-direction: column;
+  width: 353px;
+  align-items: flex-start;
+  gap: 20px;
+  position: absolute;
+  top: 151px;
+  left: 55px;
+}
+
+.cena .text-wrapper-8 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cena .text-wrapper-9 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cena .otwarte {
+  display: flex;
+  flex-direction: column;
+  width: 295px;
+  align-items: flex-start;
+  gap: 20px;
+  position: absolute;
+  top: 298px;
+  left: 55px;
+}
+
+.cena .e-mail {
+  display: flex;
+  flex-direction: column;
+  width: 233px;
+  align-items: flex-start;
+  gap: 20px;
+  position: absolute;
+  top: 154px;
+  left: 541px;
+}
+
+.cena .telefon {
+  display: flex;
+  flex-direction: column;
+  width: 171px;
+  align-items: flex-end;
+  gap: 20px;
+  position: absolute;
+  top: 298px;
+  left: 541px;
+}
+
+.cena .instagram {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 278px;
+  left: 1008px;
+}
+
+.cena .telegram-logo {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 278px;
+  left: 1154px;
+}
+
+.cena .whatsapp-logo {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 278px;
+  left: 1227px;
+}
+
+.cena .youtube-logo {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 278px;
+  left: 1081px;
+}
+
+.cena .koniec {
+  position: absolute;
+  width: 1440px;
+  height: 294px;
+  top: 1524px;
+  left: 0;
+  background-color: #303650;
+}
+
+.cena .text-wrapper-10 {
+  position: absolute;
+  top: 230px;
+  left: 465px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.cena .frame-3 {
+  display: flex;
+  width: 678px;
+  height: 59px;
+  align-items: flex-start;
+  gap: 60px;
+  padding: 5px 1px;
+  position: absolute;
+  top: 117px;
+  left: 381px;
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

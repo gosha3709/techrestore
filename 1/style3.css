@@ -1,0 +1,361 @@
+.usugi {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.usugi .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1798px;
+  position: relative;
+}
+
+.usugi .gwna {
+  position: absolute;
+  width: 1440px;
+  height: 90px;
+  top: 0;
+  left: 0;
+  background-color: #61abeb;
+}
+
+.usugi .text-wrapper {
+  position: absolute;
+  width: 246px;
+  top: 8px;
+  left: 75px;
+  font-family: "Inknut Antiqua-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.usugi .knopka {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 30px;
+  padding: 10px 30px;
+  position: absolute;
+  top: 20px;
+  left: 894px;
+}
+
+.usugi .text-wrapper-2 {
+  width: 100px;
+  height: 25px;
+  position: relative;
+  margin-top: -1.00px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.usugi .text-wrapper-3 {
+  width: fit-content;
+  position: relative;
+  margin-top: -1.00px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.usugi .frame {
+  position: absolute;
+  width: 1440px;
+  height: 914px;
+  top: 90px;
+  left: 0;
+  background-color: #eeeeee;
+}
+
+.usugi .overlap {
+  left: 61px;
+  position: absolute;
+  width: 400px;
+  height: 600px;
+  top: 167px;
+  background-color: #d9d9d9;
+}
+
+.usugi .text-wrapper-4 {
+  left: 82px;
+  position: absolute;
+  top: 22px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.usugi .overlap-group {
+  left: 520px;
+  position: absolute;
+  width: 400px;
+  height: 600px;
+  top: 167px;
+  background-color: #d9d9d9;
+}
+
+.usugi .text-wrapper-5 {
+  left: 66px;
+  position: absolute;
+  top: 22px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.usugi .div-wrapper {
+  left: 979px;
+  position: absolute;
+  width: 400px;
+  height: 600px;
+  top: 167px;
+  background-color: #d9d9d9;
+}
+
+.usugi .text-wrapper-6 {
+  position: absolute;
+  top: 22px;
+  left: 110px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.usugi .text-wrapper-7 {
+  position: absolute;
+  top: 57px;
+  left: 674px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.usugi .miejsce {
+  position: absolute;
+  width: 1440px;
+  height: 500px;
+  top: 1004px;
+  left: 0;
+  background-color: #61abeb;
+}
+
+.usugi .text-wrapper-8 {
+  position: absolute;
+  top: 39px;
+  left: 55px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.usugi .text-wrapper-9 {
+  position: absolute;
+  width: 347px;
+  top: 150px;
+  left: 1008px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.usugi .adres {
+  display: flex;
+  flex-direction: column;
+  width: 353px;
+  align-items: flex-start;
+  gap: 20px;
+  position: absolute;
+  top: 151px;
+  left: 55px;
+}
+
+.usugi .text-wrapper-10 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.usugi .text-wrapper-11 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.usugi .otwarte {
+  display: flex;
+  flex-direction: column;
+  width: 295px;
+  align-items: flex-start;
+  gap: 20px;
+  position: absolute;
+  top: 298px;
+  left: 55px;
+}
+
+.usugi .e-mail {
+  display: flex;
+  flex-direction: column;
+  width: 233px;
+  align-items: flex-start;
+  gap: 20px;
+  position: absolute;
+  top: 154px;
+  left: 541px;
+}
+
+.usugi .telefon {
+  display: flex;
+  flex-direction: column;
+  width: 171px;
+  align-items: flex-end;
+  gap: 20px;
+  position: absolute;
+  top: 298px;
+  left: 541px;
+}
+
+.usugi .instagram {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 278px;
+  left: 1008px;
+}
+
+.usugi .telegram-logo {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 278px;
+  left: 1154px;
+}
+
+.usugi .whatsapp-logo {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 278px;
+  left: 1227px;
+}
+
+.usugi .youtube-logo {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 278px;
+  left: 1081px;
+}
+
+.usugi .koniec {
+  position: absolute;
+  width: 1440px;
+  height: 294px;
+  top: 1504px;
+  left: 0;
+  background-color: #303650;
+}
+
+.usugi .p {
+  position: absolute;
+  top: 230px;
+  left: 465px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.usugi .frame-2 {
+  display: flex;
+  width: 678px;
+  height: 59px;
+  align-items: flex-start;
+  gap: 60px;
+  padding: 5px 1px;
+  position: absolute;
+  top: 117px;
+  left: 381px;
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
